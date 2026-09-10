@@ -9,6 +9,12 @@ Typing in the alias automatically copies the emote into the clipboard.
 If there are lines of text that you prefer to set instead of emotes.
 This can be edited in the setup.sh
 
+## Usage
+
+Simply type the alias found in the .bashrc file. It is preloaded with 6 emotes.
+If autocomplete existx, you could type em_ and press tab to show the possible
+emotes in the terminal. Otherwise, you could check the .bashrc file for the specific alias.
+
 ## Installation
 
 Install xclip if it is not in your system as it is needed for the program 
@@ -24,7 +30,7 @@ For Fedora/Red Hat:
 For Arch Linux/Manjaro 
 > sudo pacman -S xclip
 
-To install the program follow the commands below
+To install the program follow the commands below.
 
 1. Clone the repository
 > git clone https://github.com/NocturnSilver/BashEmote.git

@@ -11,7 +11,20 @@ This can be edited in the setup.sh
 
 ## Installation
 
-Install xclip 
+Install xclip if it is not in your system as it is needed for the program 
+to run correctly.
+
+For Debian/Ubuntu/Mint that uses apt as the package manager:
+> sudo apt update
+> sudo apt install xclip
+
+For Fedora/Red Hat:
+> sudo dnf install xclip
+
+For Arch Linux/Manjaro 
+> sudo pacman -S xclip
+
+To install the program follow the commands below
 
 1. Clone the repository
 > git clone https://github.com/NocturnSilver/BashEmote.git

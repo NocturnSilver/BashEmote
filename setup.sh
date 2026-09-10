@@ -9,11 +9,9 @@ happy=( ["bear"]="'1p'"
         ["raise"]="'3p'"
 )
 
-angry=( ["midfing"]="'1p'"
-         ["flip"]="'2p'"
-         ["stare"]="'3p'"
-         ["dpadeye"]="'4p'"
-         ["ppcut"]="'5p'"
+angry=( ["flip"]="'1p'"
+         ["stare"]="'2p'"
+         ["dpadeye"]="'3p'"
 )
 
 

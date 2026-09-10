@@ -8,7 +8,7 @@ in chat or text instead of using emojis or looking up .
 ## Installation
 
 1. Clone the repository
-> git clone 
+> git clone https://github.com/NocturnSilver/BashEmote.git
 
 2. Run setup.sh
 > bash setup.sh 
